@@ -18,7 +18,7 @@
  - List the products ordered on 11/8/2016
  - List the customers that lives in Texas?
  - Display the total number of customers?
-    - Display the customer that ordered furniture
+ - Display the customer that ordered furniture
 
  #### INSIGHTS AND FINDINGS
  - chairs and Tables in the furniture category often show negative profit due to high discount
@@ -41,6 +41,6 @@
  - Apply market analysis to find product combinations frequently bought together
 
  ####### CONCLUSION
- -The Superstore dataset provides a well view of retail operations,making it an excellent resource for practising analystics and business inteliigence.
- -Overall the dataset demonstrates how interconnected factors like products,customers,regions and logistics shape retail performance.
+ - The Superstore dataset provides a well view of retail operations,making it an excellent resource for practising analystics and business inteliigence.
+ - Overall the dataset demonstrates how interconnected factors like products,customers,regions and logistics shape retail performance.
  
